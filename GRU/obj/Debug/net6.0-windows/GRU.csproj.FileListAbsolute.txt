@@ -1,0 +1,17 @@
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\bin\Debug\net6.0-windows\GRU.exe
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\bin\Debug\net6.0-windows\GRU.deps.json
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\bin\Debug\net6.0-windows\GRU.runtimeconfig.json
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\bin\Debug\net6.0-windows\GRU.dll
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\bin\Debug\net6.0-windows\GRU.pdb
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\obj\Debug\net6.0-windows\GRU.Form1.resources
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\obj\Debug\net6.0-windows\GRU.Properties.Resources.resources
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\obj\Debug\net6.0-windows\GRU.csproj.GenerateResource.cache
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\obj\Debug\net6.0-windows\GRU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\obj\Debug\net6.0-windows\GRU.AssemblyInfoInputs.cache
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\obj\Debug\net6.0-windows\GRU.AssemblyInfo.cs
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\obj\Debug\net6.0-windows\GRU.csproj.CoreCompileInputs.cache
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\obj\Debug\net6.0-windows\GRU.dll
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\obj\Debug\net6.0-windows\refint\GRU.dll
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\obj\Debug\net6.0-windows\GRU.pdb
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\obj\Debug\net6.0-windows\GRU.genruntimeconfig.cache
+C:\Users\gambirasio.21194\Desktop\OhGhembi\GRU\obj\Debug\net6.0-windows\ref\GRU.dll
